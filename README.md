@@ -28,6 +28,7 @@ Sesameseed resources archives, especially medium postings.
 * [The Sesameseed Germinator](https://medium.com/sesameseedorg/the-sesameseed-germinator-888770327a26) - What is the SEEDGerminator
 * [About the upcoming SEEDGerminator launch!](https://medium.com/sesameseedorg/about-the-upcoming-seedgerminator-launch-c418d946dda8)
 * [SEEDGerminator: How the crowdfunded DApp and technology accelerator will work](https://medium.com/sesameseedorg/seedgerminator-how-the-crowdfunded-dapp-and-technology-accelerator-will-work-2e56a8c68d7a) - How does the SEEDGerminator work? How are projects selected? How to fund projects?
+
 //FIX: needs to be updated as SEEDGerminator Advisory Board
 * [Introducing the SEED Advisory Board](https://medium.com/sesameseedorg/introducing-the-seed-advisory-board-440b8704341e) - What is a SEEDGerminator Advisory Board and what they do?
 
@@ -77,6 +78,7 @@ Sesameseed resources archives, especially medium postings.
 * [SEEDGerminator: POPPY](https://medium.com/sesameseedorg/seedgerminator-poppy-fc222aefa57b) - an official announcement for SEEDGerminator listing
 
 //FIX: Actually, Troncard beta program was not launching on expected schedule.
+
 * [Troncard — A TRON-powered payment card](https://medium.com/sesameseedorg/troncard-a-tron-powered-payment-card-aa53ed6b4725) - a brief introduction of Troncard
 
 * [Poppy — A Point of Sale System Built for the Future](https://medium.com/sesameseedorg/poppy-a-pos-system-built-for-the-future-7d43b14f6e58) - An introduction to the payment system built on the Blockchain. Describing Clover/Troncard/Seedit integration and its utility features
