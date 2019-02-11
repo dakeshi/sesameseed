@@ -17,8 +17,8 @@ Sesameseed resources archives, especially medium postings.
 
 *Currently, Sesameseed provides two kinds of regular rewards for SR voters and SEED token holders.*
 
-* [Sesameseed daily Rewards](https://medium.com/sesameseedorg/seedit-rewards-update-ea591f58fe40)
-* [Seedit monthly rewards](https://goo.gl/TQVoxB) - Jaunuary 2019 daily Rewards spreadsheet
+* [Sesameseed daily rewards](https://medium.com/sesameseedorg/seedit-rewards-update-ea591f58fe40)
+* [Seedit monthly rewards](https://goo.gl/Q35CEw) - Feb 2019 daily rewards spreadsheet
 
 ## SEEDGerminator
 
